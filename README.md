@@ -1,0 +1,4 @@
+SMApp
+=====
+
+Stage Management Application
